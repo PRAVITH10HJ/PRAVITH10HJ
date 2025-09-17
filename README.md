@@ -34,11 +34,11 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats:
 
-[![Pravith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PRAVITH10HJ&show_icons=true&theme=dark)](https://github.com/PRAVITH10HJ)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRAVITH10HJ&layout=compact&theme=dark)](https://github.com/PRAVITH10HJ)
-
+[![Pravith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pravith10Hj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Pravith10Hj&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pravith10Hj&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Add more widgets or fun sections below! -->
 
 ---
