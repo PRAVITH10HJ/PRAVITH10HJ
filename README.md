@@ -1,12 +1,14 @@
-## Hi there 👋
+## Hi there I'm Pravith s Upadhyaya 👋
 
 <!--
 **PRAVITH10HJ/PRAVITH10HJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🎓 Studying in AIML AT Acharya Institute of Technology
+- 💻 Learning Python, ML/DL frameworks, and Data Science basics
+- 📂 Sharing my mini projects & experiments here on GitHub
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python, ML/DL frameworks, and Data Science basics
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
